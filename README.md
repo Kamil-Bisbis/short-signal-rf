@@ -1,4 +1,6 @@
-# short-signal-rf
+# Machine Learning Short-Signal-RF Stock Predictor
+
+<img width="1179" height="772" alt="image" src="https://github.com/user-attachments/assets/295897f9-7242-464c-9988-46fce0f6be4d" />
 
 ## Introduction
 
