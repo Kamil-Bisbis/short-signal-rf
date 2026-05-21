@@ -35,7 +35,7 @@ Optional: if you have FINRA short-interest history for a ticker (CSV format), th
 ## Install
 
 ```bash
-git clone [https://github.com/Kamil-Bisbis/short-signal-rf](https://github.com/Kamil-Bisbis/short-signal-rf)
+git clone https://github.com/Kamil-Bisbis/short-signal-rf
 cd short-signal-rf
 pip install -r requirements.txt
 ```
