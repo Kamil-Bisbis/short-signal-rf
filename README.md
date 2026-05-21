@@ -145,7 +145,7 @@ pytest tests/ -v
 
 ## References
 
-- Khaidem, L., Saha, S., and Dey, S. R. (2016). Predicting the direction of stock market prices using random forest. arXiv:1605.00003
+- Khaidem, L., Saha, S., and Dey, S. R. (2016). Predicting the direction of stock market prices using random forest. [arXiv:1605.00003]([url](https://arxiv.org/abs/1605.00003))
 - Lopez de Prado, M. (2018). Advances in Financial Machine Learning. Wiley.
 - Reproduction of the above paper (which flagged its likely data leakage): https://github.com/jmartinezheras/reproduce-stock-market-direction-random-forests
 
